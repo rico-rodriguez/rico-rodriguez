@@ -4,7 +4,7 @@ Hi 👋 My name is Rico Rodriguez
 Software Engineer
 -----------------
 
-* 🌍  I'm based in Seattle and Korea
+* 🌍  I'm based in Seattle
 * 🖥️  See my portfolio at [My portfolio](http://mozilla.tech)
 * ✉️  You can contact me at [mail@ricorodriguez.me](mailto:mail@ricorodriguez.me)
 * 🧠  I'm learning Backend Development
