@@ -2,7 +2,7 @@
   <a href="https://ricorodriguez.me/" target="_blank"><img src="https://i.imgur.com/DqsEpdW.png" width="100%"> </a>
 
 <p align="center">
-  <a href="[https://shawncharles.com](https://ricorodriguez.me/)" target="_blank">
+  <a href="https://ricorodriguez.me/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=23555f&style=plastic&logo=react&logo-color=white"/>
   </a>
   <a href="https://www.linkedin.com/in/rico-/" target="_blank">
