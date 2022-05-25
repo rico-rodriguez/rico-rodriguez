@@ -52,7 +52,7 @@ See [my website](https://ricorodriguez.me) for more information!
         <br />
         <p align="center">
           
-  <a href="[https://github.com/CharlesCreativeContent/Rigley2-FlappyBug](https://github.com/The-Rico/support-desk)" target="_blank">
+  <a href="https://github.com/The-Rico/support-desk" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>
       </p>
