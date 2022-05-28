@@ -62,21 +62,21 @@ See [my website](https://ricorodriguez.me) for more information!
   
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">Notely</h3>
+      <h3 align="center">Ecommerce -- Audiophile</h3>
       <br />
-        <a target="_blank" href="https://notely.ricorodriguez.me/">
-          <img src="https://user-images.githubusercontent.com/97664519/169925031-1d39fb67-edb4-4948-869f-e4411d1540d4.gif" width="100%" alt="Portfolio"/>
+        <a target="_blank" href="https://the-rico.github.io/audiophile_built/">
+          <img src="https://user-images.githubusercontent.com/97664519/170809460-a8b9ae04-c51c-4d7c-af2a-162f7e7facce.gif" width="100%" alt="Portfolio"/>
         </a>
       <br />
         <p align="center">
-  <a href="https://github.com/The-Rico/builtNotes" target="_blank">
+  <a href="https://github.com/The-Rico/audiophile_built" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>
-  <a href="https://notely.ricorodriguez.me/" target="_blank">
+  <a href="https://the-rico.github.io/audiophile_built/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>ReactJS, Materials UI</strong> - Notes app with an in-browser editor, localstorage saving, updating the notes list with the most recently edited note.</p>
+        <p><strong>ReactJS, SCSS</strong> - Ecommerce website with functional cart built from the ground up.</p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">Library</h3>
@@ -95,6 +95,25 @@ See [my website](https://ricorodriguez.me) for more information!
   </a>
       </p>
         <p><strong>HTML5, CSS3, Bootstrap & Javascript</strong> - Made completely from scratch. Add library books, determine if they have been read or not, and delete books. </p>
+    </td>
+  </tr>
+  <tr>
+     <td width="50%" valign="top">
+      <h3 align="center">Notely</h3>
+      <br />
+        <a target="_blank" href="https://notely.ricorodriguez.me/">
+          <img src="https://user-images.githubusercontent.com/97664519/169925031-1d39fb67-edb4-4948-869f-e4411d1540d4.gif" width="100%" alt="Portfolio"/>
+        </a>
+      <br />
+        <p align="center">
+  <a href="https://github.com/The-Rico/builtNotes" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>
+  <a href="https://notely.ricorodriguez.me/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>ReactJS, Materials UI</strong> - Notes app with an in-browser editor, localstorage saving, updating the notes list with the most recently edited note.</p>
     </td>
   </tr>
 </table>
