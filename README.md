@@ -28,7 +28,7 @@ See [my website](https://ricorodriguez.me) for more information!
     <td width="50%" valign="top">
       <h3 align="center">Chat with your friends</h3>
         <br />
-        <a target="_blank" href="http://travelara.herokuapp.com">
+        <a target="_blank" href="">
             <img src="https://user-images.githubusercontent.com/97664519/169923833-78a5d70d-7c5e-4b75-bace-778a00c7f1a0.gif" width="100%" alt="Travel App"/>
         </a>
         <br />
