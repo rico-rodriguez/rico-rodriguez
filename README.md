@@ -123,8 +123,8 @@ See [my website](https://ricorodriguez.me) for more information!
 
 
 <p align="center">
-    <img src="https://img.shields.io/static/v1?label=|&message=HTML5&color=23555f&style=plastic&logo=html5"/>
-    <img src="https://img.shields.io/static/v1?label=|&message=CSHARP&color=orange&style=plastic&logo=csharp](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=HTML5&color=23555f&style=plastic&logo=html5"/>    
+    <img src="https://img.shields.io/static/v1?label=|&message=CSHARP&color=orange&style=plastic&logo=csharp"/>
     <img src="https://img.shields.io/static/v1?label=|&message=dotnet&color=lightorange&style=plastic&logo=dotnet" />
     <img src="https://img.shields.io/static/v1?label=|&message=CSS3&color=285f65&style=plastic&logo=css3"/>
     <img src="https://img.shields.io/static/v1?label=|&message=SASS&color=2b625f&style=plastic&logo=sass"/>
