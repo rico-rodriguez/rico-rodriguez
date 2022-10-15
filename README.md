@@ -34,7 +34,7 @@ See [my website](https://ricorodriguez.me) for more information!
         <br />
         <p align="center">
           
-  <a href="https://github.com/The-Rico/interactivecomments" target="_blank">
+  <a href="https://github.com/rico-rodriguez/interactivecomments" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>  
   <a href="https://superb-yeot-2d0828.netlify.app/" target="_blank">
@@ -46,13 +46,13 @@ See [my website](https://ricorodriguez.me) for more information!
     <td width="50%" valign="top">
       <h3 align="center">Coffee ordering platform</h3>
         <br />
-      <a target="_blank" href="https://github.com/The-Rico/support-desk">
+      <a target="_blank" href="https://github.com/rico-rodriguez/support-desk">
             <img src="https://user-images.githubusercontent.com/97664519/169924510-af086ce1-e563-41f8-a6de-bb8392df0f87.gif" width="100%"  alt="Rigley 2"/>
         </a>
         <br />
         <p align="center">
           
-  <a href="https://github.com/The-Rico/support-desk" target="_blank">
+  <a href="https://github.com/rico-rodriguez/support-desk" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>
       </p>
@@ -64,15 +64,15 @@ See [my website](https://ricorodriguez.me) for more information!
     <td width="50%" valign="top">
       <h3 align="center">Ecommerce -- Audiophile</h3>
       <br />
-        <a target="_blank" href="https://the-rico.github.io/audiophile_built/">
+        <a target="_blank" href="https://rico-rodriguez.github.io/audiophile_built/">
           <img src="https://user-images.githubusercontent.com/97664519/170809460-a8b9ae04-c51c-4d7c-af2a-162f7e7facce.gif" width="100%" alt="Portfolio"/>
         </a>
       <br />
         <p align="center">
-  <a href="https://github.com/The-Rico/audiophile_built" target="_blank">
+  <a href="https://github.com/rico-rodriguez/audiophile_built" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>
-  <a href="https://the-rico.github.io/audiophile_built/" target="_blank">
+  <a href="https://trico-rodriguez.github.io/audiophile_built/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
@@ -87,7 +87,7 @@ See [my website](https://ricorodriguez.me) for more information!
         <br />
         <p align="center">
           
-  <a href="https://github.com/The-Rico/library" target="_blank">
+  <a href="https://github.com/rico-rodriguez/library" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>
   <a href="https://rico-library.netlify.app/" target="_blank">
@@ -106,7 +106,7 @@ See [my website](https://ricorodriguez.me) for more information!
         </a>
       <br />
         <p align="center">
-  <a href="https://github.com/The-Rico/builtNotes" target="_blank">
+  <a href="https://github.com/rico-rodriguez/builtNotes" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>
   <a href="https://notely.ricorodriguez.me/" target="_blank">
@@ -139,9 +139,13 @@ See [my website](https://ricorodriguez.me) for more information!
 </p>
 
 
-
 ---
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rico-rodriguez" alt="Rico's stats"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rico-rodriguez&layout=compact" alt="Rico's stats"/>
+</p>
 
 <h1 align="center">Connect</h1>
 
