@@ -34,7 +34,7 @@ See [my website](https://ricorodriguez.me) for more information!
         <br />
         <p align="center">
           
-  <a href="https://github.com/rico-rodriguez/interactivecomments" target="_blank">
+  <a href="https://superb-yeot-2d0828.netlify.app/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>  
   <a href="https://superb-yeot-2d0828.netlify.app/" target="_blank">
