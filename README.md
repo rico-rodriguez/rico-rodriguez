@@ -25,23 +25,19 @@ See [my website](https://ricorodriguez.me) for more information!
 <table bordercolor="#66b2b2">
   
   <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">Chat with your friends</h3>
-        <br />
-        <a target="_blank" href="./">
-            <img src="https://user-images.githubusercontent.com/97664519/169923833-78a5d70d-7c5e-4b75-bace-778a00c7f1a0.gif" width="100%" alt="Travel App"/>
+        <td width="50%" valign="top">
+      <h3 align="center">Student Registration Application</h3>
+      <br />
+        <a target="_blank" href="#">
+          <img src="https://user-images.githubusercontent.com/97664519/199612209-8741572e-a08a-4886-a749-60edeb33d20d.gif" width="100%" height="270px "alt="Portfolio"/>
         </a>
-        <br />
+      <br />
         <p align="center">
-          
-  <a href="https://superb-yeot-2d0828.netlify.app/" target="_blank">
+  <a href="https://github.com/rico-rodriguez/WinFormsApp1" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
-  </a>  
-  <a href="https://superb-yeot-2d0828.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>Javascript</strong> - Platform for sending, editing, and deleting comments!</p>
+        <p><strong>C#, Visual Studio, MSSQL</strong> - School database application. Full CRUD functionality connected to an SQL database.</p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">Coffee ordering platform</h3>
@@ -114,6 +110,24 @@ See [my website](https://ricorodriguez.me) for more information!
   </a>
       </p>
         <p><strong>ReactJS, Materials UI</strong> - Notes app with an in-browser editor, localstorage saving, updating the notes list with the most recently edited note.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">Chat with your friends</h3>
+        <br />
+        <a target="_blank" href="./">
+            <img src="https://user-images.githubusercontent.com/97664519/169923833-78a5d70d-7c5e-4b75-bace-778a00c7f1a0.gif" width="100%" alt="Travel App"/>
+        </a>
+        <br />
+        <p align="center">
+          
+  <a href="https://superb-yeot-2d0828.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>  
+  <a href="https://superb-yeot-2d0828.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>Javascript</strong> - Platform for sending, editing, and deleting comments!</p>
     </td>
   </tr>
 </table>
