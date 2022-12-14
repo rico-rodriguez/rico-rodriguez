@@ -42,13 +42,13 @@ See [my website](https://ricorodriguez.me) for more information!
     <td width="50%" valign="top">
       <h3 align="center">Dog Health Tracking app</h3>
         <br />
-      <a target="_blank" href="[https://github.com/rico-rodriguez/support-desk](https://github.com/rico-rodriguez/dogTrakr)">
+      <a target="_blank" href="https://github.com/rico-rodriguez/dogTrakr">
             <img src="https://user-images.githubusercontent.com/97664519/207472132-2235d3dc-1b8e-4250-8aa1-2a3fa2673b18.png" width="100%"  alt="Rigley 2"/>
         </a>
         <br />
         <p align="center">
           
-  <a href="[https://github.com/rico-rodriguez/support-desk](https://github.com/rico-rodriguez/dogTrakr)" target="_blank">
+  <a href="h[ttps://github.com/rico-rodriguez/support-desk](https://github.com/rico-rodriguez/dogTrakr)" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>
       </p>
