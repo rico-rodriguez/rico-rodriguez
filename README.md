@@ -40,10 +40,10 @@ See [my website](https://ricorodriguez.me) for more information!
         <p><strong>C#, Visual Studio, MSSQL</strong> - School database application. Full CRUD functionality connected to an SQL database.</p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">Coffee ordering platform</h3>
+      <h3 align="center">Dog Health Tracking app</h3>
         <br />
-      <a target="_blank" href="https://github.com/rico-rodriguez/support-desk">
-            <img src="https://user-images.githubusercontent.com/97664519/169924510-af086ce1-e563-41f8-a6de-bb8392df0f87.gif" width="100%"  alt="Rigley 2"/>
+      <a target="_blank" href="[https://github.com/rico-rodriguez/support-desk](https://github.com/rico-rodriguez/dogTrakr)">
+            <img src="https://user-images.githubusercontent.com/97664519/207472132-2235d3dc-1b8e-4250-8aa1-2a3fa2673b18.png" width="100%"  alt="Rigley 2"/>
         </a>
         <br />
         <p align="center">
@@ -52,7 +52,7 @@ See [my website](https://ricorodriguez.me) for more information!
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>
       </p>
-        <p><strong>Javascript, MongooseDB, Express, ReactJS, NodeJS</strong> - Register, Login, Create orders, and complete orders.</p>
+        <p><strong>Javascript, MongooseDB, Express, ReactJS, NodeJS, MUI</strong> - Register, Login, Create orders, and complete orders.</p>
     </td>
   </tr>
   
