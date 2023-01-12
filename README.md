@@ -1,5 +1,6 @@
 
   <a href="https://ricorodriguez.me/" target="_blank"><img src="https://i.imgur.com/DqsEpdW.png" width="100%"> </a>
+![line](https://user-images.githubusercontent.com/97664519/212176383-c876d0ca-750a-47d6-938c-ea5afb8ea0e8.gif)![line](https://user-images.githubusercontent.com/97664519/212176383-c876d0ca-750a-47d6-938c-ea5afb8ea0e8.gif)
 
 <p align="center">
   <a href="https://ricorodriguez.me/" target="_blank">
