@@ -155,10 +155,10 @@ See [my website](https://ricorodriguez.me) for more information!
 
 ---
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rico-rodriguez" alt="Rico's stats"/>
+  <img src="https://github-stats-alpha.vercel.app/api?username=rico-rodriguez" alt="Rico's stats"/>
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rico-rodriguez&layout=compact" alt="Rico's stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=rico-rodriguez&theme=tokyonight&border_radius=5&mode=weekly" alt="Rico's stats"/>
 </p>
 
 <h1 align="center">Connect</h1>
