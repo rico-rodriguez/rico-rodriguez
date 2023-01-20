@@ -82,7 +82,8 @@ See [my website](https://ricorodriguez.me) for more information!
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>
       </p>
-        <p><strong>Javascript, MongoDB, Express, ReactJS, NodeJS, MUI</strong> - Register, Login, Create orders, and complete orders.</p>
+        <p><strong>Javascript, MongoDB, Express, ReactJS, NodeJS, MUI</strong> - Register, Login, Create orders, and complete orders.</p><p>UPDATE: This
+       Has been ported into a mobile application: https://github.com/rico-rodriguez/APKActivityApplication</p>
     </td>
   </tr>
   
