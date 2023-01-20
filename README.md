@@ -29,6 +29,36 @@ See [my website](https://ricorodriguez.me) for more information!
       <h3 align="center">Student Registration Application</h3>
       <br />
         <a target="_blank" href="#">
+          <img src="https://user-images.githubusercontent.com/97664519/213782096-f65123c8-a69a-413d-a6f2-d857849289cd.png" width="100%" height="270px "alt="Portfolio"/>
+        </a>
+      <br />
+        <p align="center">
+  <a href="https://github.com/rico-rodriguez/ReadyButton" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>ReactJs, NodeJs, MongoDb, Web Sockets, Synchronous</strong> - Dynamically create instances to share with your friends.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">Flight Price tracker</h3>
+        <br />
+      <a target="_blank" href="https://github.com/rico-rodriguez/FlightPricesMVC/tree/master">
+            <img src="https://user-images.githubusercontent.com/97664519/213782566-8ad39200-206b-4692-8940-451f020eb66a.png" width="100%"  alt="Rigley 2"/>
+        </a>
+        <br />
+        <p align="center">
+          
+  <a href="https://github.com/rico-rodriguez/FlightPricesMVC/tree/master" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>C#, MVC, Azure, API</strong> - Search for flights and flight prices.</p>
+    </td>
+  </tr><tr>
+        <td width="50%" valign="top">
+      <h3 align="center">Student Registration Application</h3>
+      <br />
+        <a target="_blank" href="#">
           <img src="https://user-images.githubusercontent.com/97664519/199612209-8741572e-a08a-4886-a749-60edeb33d20d.gif" width="100%" height="270px "alt="Portfolio"/>
         </a>
       <br />
