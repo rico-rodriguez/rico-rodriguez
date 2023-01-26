@@ -26,7 +26,7 @@ See [my website](https://ricorodriguez.me) for more information!
   
   <tr>
         <td width="50%" valign="top">
-      <h3 align="center">Student Registration Application</h3>
+      <h3 align="center">Ready yet?</h3>
       <br />
         <a target="_blank" href="#">
           <img src="https://user-images.githubusercontent.com/97664519/213782096-f65123c8-a69a-413d-a6f2-d857849289cd.png" width="100%" height="270px "alt="Portfolio"/>
