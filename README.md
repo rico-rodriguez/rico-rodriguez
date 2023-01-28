@@ -29,7 +29,7 @@ See [my website](https://ricorodriguez.me) for more information!
       <h3 align="center">Ready yet?</h3>
       <br />
         <a target="_blank" href="#">
-          <img src="https://user-images.githubusercontent.com/97664519/213782096-f65123c8-a69a-413d-a6f2-d857849289cd.png" width="100%" height="270px "alt="Portfolio"/>
+          <img src="https://user-images.githubusercontent.com/97664519/215286018-c88d47a2-f5d3-4713-96ec-e9530a40db0e.png" width="100%" "alt="Portfolio"/>
         </a>
       <br />
         <p align="center">
