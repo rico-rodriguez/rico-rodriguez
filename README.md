@@ -174,5 +174,4 @@ Software Engineer - I am motivated by the power of technology as a tool for posi
   <img src="https://github-readme-streak-stats.herokuapp.com?user=rico-rodriguez&theme=tokyonight&border_radius=5&mode=weekly" alt="Rico's stats"/>
 </p>
 
-<h1 align="center">Connect</h1>
 
