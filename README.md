@@ -3,9 +3,6 @@
 
 Software Engineer - I am motivated by the power of technology as a tool for positive change, with a background in the Military, Business Management and Quality Assurance.
 
-See [my website](https://ricorodriguez.me) for more information!
-
-
 <h1 align="center">Projects</h1>
 <table bordercolor="#66b2b2">
   
