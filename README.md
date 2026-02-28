@@ -1,177 +1,110 @@
+<!-- HEADER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:0d1117&height=3"/>
 
-  <a href="https://ricorodriguez.me/" target="_blank"><img src="https://i.imgur.com/DqsEpdW.png" width="100%"> </a>
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:0d1117&height=220&text=RICO&fontAlign=50&fontAlignY=55&fontSize=120&fontColor=ffffff&animation=fadeIn&desc=Full-Stack%20Engineer%20%20%C2%B7%20%20Cloud%20Architect&descAlignY=80&descSize=16&descAlign=50"/>
+</div>
 
-Software Engineer - I am motivated by the power of technology as a tool for positive change, with a background in the Military, Business Management and Quality Assurance.
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1200&color=D4FF00&center=true&vCenter=true&width=600&lines=Building+systems+that+don't+fail.;Zero+downtime.+Zero+fluff.;High-availability+cloud+infrastructure.;Code+that+works+under+pressure." alt="Typing SVG" />
+</div>
 
-<h1 align="center">Projects</h1>
-<table bordercolor="#66b2b2">
-  
-  <tr>
-        <td width="50%" valign="top">
-      <h3 align="center">Ready yet?</h3>
-      <br />
-        <a target="_blank" href="#">
-          <img src="https://user-images.githubusercontent.com/97664519/215286018-c88d47a2-f5d3-4713-96ec-e9530a40db0e.png" width="100%" "alt="Portfolio"/>
-        </a>
-      <br />
-        <p align="center">
-  <a href="https://github.com/rico-rodriguez/ReadyButton" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
-  </a>
-      </p>
-        <p><strong>ReactJs, NodeJs, MongoDb, Web Sockets, Synchronous</strong> - Dynamically create instances to share with your friends.</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">Flight Price tracker</h3>
-        <br />
-      <a target="_blank" href="https://github.com/rico-rodriguez/FlightPricesMVC/tree/master">
-            <img src="https://user-images.githubusercontent.com/97664519/213782566-8ad39200-206b-4692-8940-451f020eb66a.png" width="100%"  alt="Rigley 2"/>
-        </a>
-        <br />
-        <p align="center">
-          
-  <a href="https://github.com/rico-rodriguez/FlightPricesMVC/tree/master" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
-  </a>
-      </p>
-        <p><strong>C#, MVC, Azure, API</strong> - Search for flights and flight prices.</p>
-    </td>
-  </tr><tr>
-        <td width="50%" valign="top">
-      <h3 align="center">Student Registration Application</h3>
-      <br />
-        <a target="_blank" href="#">
-          <img src="https://user-images.githubusercontent.com/97664519/199612209-8741572e-a08a-4886-a749-60edeb33d20d.gif" width="100%" height="270px "alt="Portfolio"/>
-        </a>
-      <br />
-        <p align="center">
-  <a href="https://github.com/rico-rodriguez/WinFormsApp1" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
-  </a>
-      </p>
-        <p><strong>C#, Visual Studio, MSSQL</strong> - School database application. Full CRUD functionality connected to an SQL database.</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">Dog Health Tracking app</h3>
-        <br />
-      <a target="_blank" href="https://github.com/rico-rodriguez/dogTrakr">
-            <img src="https://user-images.githubusercontent.com/97664519/207472132-2235d3dc-1b8e-4250-8aa1-2a3fa2673b18.png" width="100%"  alt="Rigley 2"/>
-        </a>
-        <br />
-        <p align="center">
-          
-  <a href="https://github.com/rico-rodriguez/dogTrakr" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
-  </a>
-      </p>
-        <p><strong>Javascript, MongoDB, Express, ReactJS, NodeJS, MUI</strong> - Register, Login, Create orders, and complete orders.</p><p>UPDATE: This
-       Has been ported into a mobile application: https://github.com/rico-rodriguez/APKActivityApplication</p>
-    </td>
-  </tr>
-  
+<br>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-D4FF00?style=for-the-badge&labelColor=0d1117&color=D4FF00"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Focus-Cloud%20%26%20Full--Stack-ffffff?style=for-the-badge&labelColor=0d1117&color=ffffff"/>
+</div>
+
+<br>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:0d1117&height=2&section=header"/>
+<br>
+
+---
+
+## ⚡ Stack
+
+<div align="center">
+
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=java,ts,python,cs&theme=dark&perline=8"/>
+
+**Frontend & Backend**
+
+<img src="https://skillicons.dev/icons?i=react,angular,nodejs,spring&theme=dark&perline=8"/>
+
+**Cloud, DevOps & Tools**
+
+<img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,github,git&theme=dark&perline=8"/>
+
+</div>
+
+---
+
+## 🚀 Featured Work
+
+<table>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">Ecommerce -- Audiophile</h3>
-      <br />
-        <a target="_blank" href="https://rico-rodriguez.github.io/audiophile_built/">
-          <img src="https://user-images.githubusercontent.com/97664519/170809460-a8b9ae04-c51c-4d7c-af2a-162f7e7facce.gif" width="100%" alt="Portfolio"/>
-        </a>
-      <br />
-        <p align="center">
-  <a href="https://rico-rodriguez.github.io/audiophile_built/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
-  </a>
-  <a href="https://rico-rodriguez.github.io/audiophile_built/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
-  </a>
-      </p>
-        <p><strong>ReactJS, SCSS</strong> - Ecommerce website with functional cart built from the ground up.</p>
+      <h3>⚡ Introhater</h3>
+      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+      <img src="https://img.shields.io/badge/WebSockets-010101?style=flat-square"/>
+      <br><br>
+      The anti-small-talk engine. A real-time communication platform designed to strip out the noise and get straight to the point.
+      <br><br>
+      <kbd>🟢 Live in Production</kbd>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">Library</h3>
-        <br />
-        <a target="_blank" href="https://rico-library.netlify.app/">
-          <img src="https://user-images.githubusercontent.com/97664519/169925427-6b0a37b2-cde0-4684-9065-16c1e62806e2.gif" width="100%" alt="Matching Cards"/>
-        </a>
-        <br />
-        <p align="center">
-          
-  <a href="https://github.com/rico-rodriguez/library" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
-  </a>
-  <a href="https://rico-library.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
-  </a>
-      </p>
-        <p><strong>HTML5, CSS3, Bootstrap & Javascript</strong> - Made completely from scratch. Add library books, determine if they have been read or not, and delete books. </p>
+      <h3>🏛️ Federal Financial Engine</h3>
+      <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Datadog-632CA6?style=flat-square&logo=datadog&logoColor=white"/>
+      <br><br>
+      Enterprise portal handling <strong>177,000+ policy quotes</strong> in Year 1. Architected for absolute zero-downtime reliability under heavy federal transaction loads.
+      <br><br>
+      <kbd>📈 Massive premium growth · Year 1</kbd>
     </td>
   </tr>
   <tr>
-     <td width="50%" valign="top">
-      <h3 align="center">Notely</h3>
-      <br />
-        <a target="_blank" href="https://notely.ricorodriguez.me/">
-          <img src="https://user-images.githubusercontent.com/97664519/169925031-1d39fb67-edb4-4948-869f-e4411d1540d4.gif" width="100%" alt="Portfolio"/>
-        </a>
-      <br />
-        <p align="center">
-  <a href="https://github.com/rico-rodriguez/builtNotes" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
-  </a>
-  <a href="https://notely.ricorodriguez.me/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
-  </a>
-      </p>
-        <p><strong>ReactJS, Materials UI</strong> - Notes app with an in-browser editor, localstorage saving, updating the notes list with the most recently edited note.</p>
+    <td width="50%" valign="top">
+      <h3>☁️ Cloud Modernization</h3>
+      <img src="https://img.shields.io/badge/AWS_GovCloud-232F3E?style=flat-square&logo=amazonaws&logoColor=FF9900"/>
+      <img src="https://img.shields.io/badge/Lambda-FF9900?style=flat-square&logo=awslambda&logoColor=white"/>
+      <img src="https://img.shields.io/badge/API_Gateway-FF4F8B?style=flat-square&logo=amazonapigateway&logoColor=white"/>
+      <br><br>
+      Ripped out on-prem federal monoliths and rebuilt them as scalable serverless architecture. 100% feature parity, strict security compliance, zero regression.
+      <br><br>
+      <kbd>✅ 100% Feature Parity Achieved</kbd>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">Chat with your friends</h3>
-        <br />
-        <a target="_blank" href="./">
-            <img src="https://user-images.githubusercontent.com/97664519/169923833-78a5d70d-7c5e-4b75-bace-778a00c7f1a0.gif" width="100%" alt="Travel App"/>
-        </a>
-        <br />
-        <p align="center">
-          
-  <a href="https://superb-yeot-2d0828.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
-  </a>  
-  <a href="https://superb-yeot-2d0828.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
-  </a>
-      </p>
-        <p><strong>Javascript</strong> - Platform for sending, editing, and deleting comments!</p>
+      <h3>🌍 Global Microservices</h3>
+      <img src="https://img.shields.io/badge/Azure_Functions-0062AD?style=flat-square&logo=microsoftazure&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Cosmos_DB-0078D4?style=flat-square&logo=microsoftazure&logoColor=white"/>
+      <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white"/>
+      <br><br>
+      Cloud-native microservices designed for high-traffic global demand. Independently deployable services with highly scalable RESTful architecture.
+      <br><br>
+      <kbd>🌐 Multi-Region Global Deployment</kbd>
     </td>
   </tr>
 </table>
 
+---
 
-<h1 align="center">Technologies</h1>
+## 🎯 Engineering Focus
 
-
-<p align="center">
-    <img src="https://img.shields.io/static/v1?label=|&message=HTML5&color=23555f&style=plastic&logo=html5"/>    
-    <img src="https://img.shields.io/static/v1?label=|&message=CSHARP&color=orange&style=plastic&logo=csharp"/>
-    <img src="https://img.shields.io/static/v1?label=|&message=dotnet&color=lightorange&style=plastic&logo=dotnet" />
-    <img src="https://img.shields.io/static/v1?label=|&message=CSS3&color=285f65&style=plastic&logo=css3"/>
-    <img src="https://img.shields.io/static/v1?label=|&message=SASS&color=2b625f&style=plastic&logo=sass"/>
-    <img src="https://img.shields.io/static/v1?label=|&message=BOOTSTRAP&color=316c5e&style=plastic&logo=bootstrap"/>
-    <img src="https://img.shields.io/static/v1?label=|&message=JAVASCRIPT&color=3c7f5d&style=plastic&logo=javascript"/>
-    <img src="https://img.shields.io/static/v1?label=|&message=REACT.JS&color=4a935c&style=plastic&logo=react"/>
-    <img src="https://img.shields.io/static/v1?label=|&message=AWS&color=98bf53&style=plastic&logo=amazon"/>
-    <img src="https://img.shields.io/static/v1?label=|&message=MONGO-DB&color=cdd148&style=plastic&logo=mongodb"/>
-    <img src="https://img.shields.io/static/v1?label=|&message=EXPRESS&color=bbb111&style=plastic&logo=express"/>
-    <img src="https://img.shields.io/static/v1?label=|&message=LINUX&color=bbb111&style=plastic&logo=linux"/>
-    <img src="https://img.shields.io/static/v1?label=|&message=GIT&color=cbb148&style=plastic&logo=git"/>
-</p>
-
+```
+  Systems Design          Cloud Architecture       Security Compliance
+  SDLC Optimization       CI/CD Pipelines          Serverless Infrastructure
+  Automated Testing       Zero-Downtime Deploys    Legacy Modernization
+```
 
 ---
-<p align="center">
-  <img src="https://github-stats-alpha.vercel.app/api?username=rico-rodriguez" alt="Rico's stats"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=rico-rodriguez&theme=tokyonight&border_radius=5&mode=weekly" alt="Rico's stats"/>
-</p>
 
 
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:0d1117&height=60&text=Open%20to%20new%20missions.%20Always%20shipping.&fontSize=18&fontColor=444444&fontAlign=50&fontAlignY=50&animation=fadeIn"/>
+</div>
